@@ -1,6 +1,6 @@
 [.homesick/repos/homeshick]
-checkout = git clone 'git://github.com/andsens/homeshick.git' 'homeshick'
 order = 0
+checkout = git clone 'git://github.com/andsens/homeshick.git' 'homeshick'
 
 [.local/zgen]
 checkout = git clone 'git@github.com:tarjoilija/zgen.git' 'zgen'
@@ -10,7 +10,6 @@ checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattb
 
 [.homesick/repos/dotvim]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotvim.git' 'dotvim'
-
 
 [.homesick/repos/dotmyrepos]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotmyrepos.git' 'dotmyrepos'

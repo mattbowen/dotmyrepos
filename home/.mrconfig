@@ -10,3 +10,6 @@ checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'homeshick@homeshickh
 [.homesick/repos/dotvim]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'homeshick@homeshickhub.com:mattbowen/dotvim.homeshick' 'dotvim'
 
+
+[.homesick/repos/dotmyrepos]
+checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotmyrepos.git' 'dotmyrepos'

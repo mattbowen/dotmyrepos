@@ -6,10 +6,10 @@ order = 0
 checkout = git clone 'git@github.com:tarjoilija/zgen.git' 'zgen'
 
 [.homesick/repos/dotzsh]
-checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@got.com:mattbowen/dotzsh.git' 'dotzsh'
+checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotzsh.git' 'dotzsh'
 
 [.homesick/repos/dotvim]
-checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@git.com:mattbowen/dotvim.git' 'dotvim'
+checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotvim.git' 'dotvim'
 
 
 [.homesick/repos/dotmyrepos]

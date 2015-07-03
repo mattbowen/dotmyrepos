@@ -9,7 +9,7 @@ checkout = git clone 'git@github.com:tarjoilija/zgen.git' 'zgen'
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotzsh.git'
 
 [.homesick/repos/dotvim]
-checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotvim.git'
+checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotvim.git' && ./setup.sh
 
 [.homesick/repos/dotmyrepos]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotmyrepos.git'

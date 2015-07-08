@@ -15,7 +15,7 @@ checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattb
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotmyrepos.git'
 
 [.emacs.d]
-checkout = git clone --recursive 'https://github.com/syl21bnr/spacemacs' '.emacs.d'
+checkout = git clone --recursive 'git@github.com:syl20bnr/spacemacs.git' '.emacs.d'
 
 [.homesick/repos/dotgit]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotgit.git'

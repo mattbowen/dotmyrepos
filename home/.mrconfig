@@ -19,3 +19,6 @@ checkout = git clone --recursive 'git@github.com:syl20bnr/spacemacs.git' '.emacs
 
 [.homesick/repos/dotgit]
 checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotgit.git'
+
+[.homesick/repos/dotspacemacs]
+checkout = ~/.homesick/repos/homeshick/bin/homeshick clone 'git@github.com:mattbowen/dotspacemacs.git'
